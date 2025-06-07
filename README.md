@@ -1,16 +1,27 @@
 <!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=twinkling&type=venom&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=twinkling&type=venom&color=gradient&height=200"/>
 </p>
+
+##
 
 <!-- KATA PENGANTAR -->
 <p align="center">
   <b>Welcome to my GitHub profile! I'm passionate about coding, learning, and creating cool things on the web. 🚀</b>
 </p>
+<p align="center">
+<a href="https://www.instagram.com/a4amaaaa/">
+  <img height="50" src="img/igLogo.jpeg"/>
+<a href="https://www.instagram.com/a4amaaaa/">
+  <img height="50" src="img/fbLogo.jpeg"/>
+<a href="https://www.instagram.com/a4amaaaa/">
+  <img height="50" src="img/xLogo.jpeg"/>
+</a>
+</p>
 
 <!-- GIF -->
 <p align="center">
-  <img src="img/lukyStar.gif" width="1000" height="400" />
+  <img src="img/konata.gif" width="1000" height="400" />
 </p>
 
 ## 🧑‍💻 About Me
