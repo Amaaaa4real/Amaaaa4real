@@ -1,6 +1,6 @@
 <!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=twinkling&type=venom&color=gradient&height=150"/>
 </p>
 
 <!-- KATA PENGANTAR -->
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400" />
 </p>
 
 - 🎓 **Name:** Rama Fauzan Arkansah  
