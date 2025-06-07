@@ -12,9 +12,9 @@
 <p align="center">
 <a href="https://www.instagram.com/a4amaaaa/">
   <img height="50" src="img/igLogo.jpeg"/>
-<a href="https://www.instagram.com/a4amaaaa/">
+<a href="https://www.facebook.com/profile.php?id=61552030828768">
   <img height="50" src="img/fbLogo.jpeg"/>
-<a href="https://www.instagram.com/a4amaaaa/">
+<a href="https://x.com/Ecortsist">
   <img height="50" src="img/xLogo.jpeg"/>
 </a>
 </p>
