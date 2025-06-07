@@ -10,14 +10,10 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="img/lukyStar.gif" width="400" />
+  <img src="img/lukyStar.gif" width="1000" height="400" />
 </p>
 
 ## 🧑‍💻 About Me
-
-<p align="center">
-  <img src="img/carrd.gif" width="400" />
-</p>
 
 - 🎓 **Name:** Rama Fauzan Arkansah
 - 💼 **Role:** Student
@@ -46,4 +42,8 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cr4r5qibblr324zyt3xlmq3ob4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cr4r5qibblr324zyt3xlmq3ob4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
+</p>
+
+<p align="center">
+  <img src="img/carrd gif.gif" width="1000" height ="300"/>
 </p>
