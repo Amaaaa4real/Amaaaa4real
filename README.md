@@ -10,13 +10,13 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="img/shigureUi.gif" width="400" />
+  <img src="img/lukyStar.gif" width="400" />
 </p>
 
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="img/mfDoom.gif" width="400" />
+  <img src="img/carrd.gif" width="400" />
 </p>
 
 - 🎓 **Name:** Rama Fauzan Arkansah
