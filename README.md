@@ -13,22 +13,25 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<!-- ABOUT ME -->
 ## 🧑‍💻 About Me
-```yaml
-name: Amaaaa4real
-role: Student
-hobbies:
-  - Running
-  - Sleep
-  - Gaming & Music
-location: Indonesia
-currently_learning: TypeScript, Next.js, AI
-```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="200" />
+</p>
+
+- 🎓 **Name:** Rama Fauzan Arkansah  
+- 💼 **Role:** Student  
+- 🌍 **Location:** Indonesia  
+- 🎯 **Currently Learning:** Kotlin, Javascipt, Figma  
+- 🎮 **Hobbies:**  
+  - 🏃‍♂️ Running  
+  - 🛌 Sleep  
+  - 🎧 Gaming & Music  
+
 
 <!-- TOOLS USED -->
 ## 🛠️ Tools & Technologies
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> </p>
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
