@@ -36,3 +36,4 @@ currently_learning: TypeScript, Next.js, AI
 
 <!-- ANIMASI SNAKE -->
 ## 🐍 Watch my contributions snake its way through my GitHub!
+![Snake animation](https://github.com/Amaaaa4real/Amaaaa4real/blob/output/github-contribution-grid-snake.svg)
