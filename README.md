@@ -21,7 +21,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="img/lukyStar.gif" width="1000" height="400" />
+  <img src="img/konata.gif" width="1000" height="400" />
 </p>
 
 ## 🧑‍💻 About Me
