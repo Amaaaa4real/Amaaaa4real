@@ -1,6 +1,6 @@
 <!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=twinkling&type=venom&color=gradient&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!%👋&animation=twinkling&type=venom&color=gradient&height=250"/>
 </p>
 
 ##
