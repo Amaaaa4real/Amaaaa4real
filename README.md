@@ -10,13 +10,13 @@
   <b>Welcome to my GitHub profile! I'm passionate about coding, learning, and creating cool things on the web. 🚀</b>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/a4amaaaa/">
+<a href="https://www.instagram.com/mothcxx/">
   <img height="50" src="img/igLogo.jpeg"/>
 <a href="https://www.facebook.com/profile.php?id=61552030828768">
   <img height="50" src="img/fbLogo.jpeg"/>
-<a href="https://x.com/Ecortsist">
+<!-- <a href="https://x.com/Ecortsist">
   <img height="50" src="img/xLogo.jpeg"/>
-</a>
+</a> -->
 </p>
 
 <!-- GIF -->
