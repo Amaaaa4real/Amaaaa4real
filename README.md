@@ -12,10 +12,15 @@
   <a href="https://www.instagram.com/mothcxx/">
     <img height="50" src="img/igLogo.jpeg" alt="Instagram"/>
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://www.facebook.com/profile.php?id=61552030828768">
     <img height="50" src="img/fbLogo.jpeg" alt="Facebook"/>
+  </a> -->
+  &nbsp;
+  <a href="https://discord.com/users/1313300396730617867">
+    <img height="50" src="img/discordIcon.jpg" alt="Discord"/>
   </a>
+  &nbsp;
 </p>
 
 <!-- GIF BANNER -->
@@ -31,7 +36,7 @@
 - 💼 **Role:** Student
 - 🌍 **Location:** Indonesia
 - 🎯 **Currently Learning:** Kotlin · JavaScript · Figma
-- 🎮 **Hobbies:** 🚴 Cycling &nbsp;|&nbsp; 🛌 Sleeping &nbsp;|&nbsp; 🎧 Gaming & Music
+- 🎮 **Hobbies:** 🚴 Cycling &nbsp;|&nbsp; 🛌 Sleeping &nbsp;|&nbsp; 🎧 Music
 
 ---
 
